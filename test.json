@@ -1,0 +1,1949 @@
+{
+  "TeachClassList": [
+    {
+      "SemesterCode": "20141",
+      "TeachClassId": "2014112011",
+      "CourseName": "高等数学（1）",
+      "CourseNature": "学科基础",
+      "CourseType": "其它",
+      "TeacherName": "李源",
+      "ExperimentTeacherName": null,
+      "ResultStatus": "审核通过",
+      "SchoolName": "数学与统计学院",
+      "Major": "软件学院",
+      "StudentCount": "75",
+      "ScoreSettingStr": "1|True|10|True|20|True|70"
+    },
+    {
+      "SemesterCode": "20141",
+      "TeachClassId": "2014112014",
+      "CourseName": "高级语言程序设计",
+      "CourseNature": "学科基础",
+      "CourseType": "其它",
+      "TeacherName": "王逍",
+      "ExperimentTeacherName": null,
+      "ResultStatus": "审核通过",
+      "SchoolName": "软件学院",
+      "Major": "软件学院",
+      "StudentCount": "78",
+      "ScoreSettingStr": "0|False||False||False|"
+    },
+    {
+      "SemesterCode": "20141",
+      "TeachClassId": "2014112017",
+      "CourseName": "高级语言程序设计实验",
+      "CourseNature": "学科基础",
+      "CourseType": "其它",
+      "TeacherName": "王逍",
+      "ExperimentTeacherName": null,
+      "ResultStatus": "审核通过",
+      "SchoolName": "软件学院",
+      "Major": "软件学院",
+      "StudentCount": "77",
+      "ScoreSettingStr": "0|False||False||False|"
+    },
+    {
+      "SemesterCode": "20141",
+      "TeachClassId": "2014112021",
+      "CourseName": "离散数学",
+      "CourseNature": "学科基础",
+      "CourseType": "其它",
+      "TeacherName": "胡盛",
+      "ExperimentTeacherName": null,
+      "ResultStatus": "审核通过",
+      "SchoolName": "软件学院",
+      "Major": "软件学院",
+      "StudentCount": "85",
+      "ScoreSettingStr": "0|False||False||False|"
+    },
+    {
+      "SemesterCode": "20141",
+      "TeachClassId": "2014112023",
+      "CourseName": "模拟与数字电路",
+      "CourseNature": "学科基础",
+      "CourseType": "其它",
+      "TeacherName": "许红星",
+      "ExperimentTeacherName": null,
+      "ResultStatus": "审核通过",
+      "SchoolName": "软件学院",
+      "Major": "软件学院",
+      "StudentCount": "92",
+      "ScoreSettingStr": "0|False||False||False|"
+    },
+    {
+      "SemesterCode": "20141",
+      "TeachClassId": "2014112026",
+      "CourseName": "模拟与数字电路实验",
+      "CourseNature": "学科基础",
+      "CourseType": "其它",
+      "TeacherName": "许红星",
+      "ExperimentTeacherName": null,
+      "ResultStatus": "审核通过",
+      "SchoolName": "软件学院",
+      "Major": "软件学院",
+      "StudentCount": "80",
+      "ScoreSettingStr": "0|False||False||False|"
+    },
+    {
+      "SemesterCode": "20141",
+      "TeachClassId": "2014112030",
+      "CourseName": "专业英语阅读与交流(1)",
+      "CourseNature": "专业必修",
+      "CourseType": "其它",
+      "TeacherName": "杨云",
+      "ExperimentTeacherName": null,
+      "ResultStatus": "审核通过",
+      "SchoolName": "软件学院",
+      "Major": "软件学院",
+      "StudentCount": "88",
+      "ScoreSettingStr": "1|True|10|True|20|True|70"
+    },
+    {
+      "SemesterCode": "20141",
+      "TeachClassId": "20141A0463",
+      "CourseName": "英语读写(1)",
+      "CourseNature": "公共必修",
+      "CourseType": "其它",
+      "TeacherName": "杨燕",
+      "ExperimentTeacherName": null,
+      "ResultStatus": "审核通过",
+      "SchoolName": "大学外语教学部",
+      "Major": "软件学院",
+      "StudentCount": "51",
+      "ScoreSettingStr": "1|True|30|True|30|True|40"
+    },
+    {
+      "SemesterCode": "20141",
+      "TeachClassId": "20141A0560",
+      "CourseName": "英语听说(1)",
+      "CourseNature": "公共必修",
+      "CourseType": "其它",
+      "TeacherName": "张荣美",
+      "ExperimentTeacherName": null,
+      "ResultStatus": "审核通过",
+      "SchoolName": "大学外语教学部",
+      "Major": "软件学院",
+      "StudentCount": "52",
+      "ScoreSettingStr": "1|True|30|True|30|True|40"
+    },
+    {
+      "SemesterCode": "20141",
+      "TeachClassId": "20141A0634",
+      "CourseName": "大学生心理健康教育",
+      "CourseNature": "公共必修",
+      "CourseType": "其它",
+      "TeacherName": "唐艳婷",
+      "ExperimentTeacherName": null,
+      "ResultStatus": "审核通过",
+      "SchoolName": "大学生心理健康咨询中心",
+      "Major": "软件学院",
+      "StudentCount": "102",
+      "ScoreSettingStr": "1|True|10|True|20|True|70"
+    },
+    {
+      "SemesterCode": "20141",
+      "TeachClassId": "20141A0664",
+      "CourseName": "思想道德修养与法律基础",
+      "CourseNature": "公共必修",
+      "CourseType": "其它",
+      "TeacherName": "陈江洪",
+      "ExperimentTeacherName": null,
+      "ResultStatus": "审核通过",
+      "SchoolName": "马克思主义学院",
+      "Major": "软件学院",
+      "StudentCount": "110",
+      "ScoreSettingStr": "1|True|10|True|30|True|60"
+    },
+    {
+      "SemesterCode": "20141",
+      "TeachClassId": "20141A0705",
+      "CourseName": "形势与政策（1）",
+      "CourseNature": "公共必修",
+      "CourseType": "其它",
+      "TeacherName": "柏晶",
+      "ExperimentTeacherName": null,
+      "ResultStatus": "审核通过",
+      "SchoolName": "化学科学与工程学院·药学院",
+      "Major": "化学科学与工程学院",
+      "StudentCount": "156",
+      "ScoreSettingStr": "1|True|40|False||True|60"
+    },
+    {
+      "SemesterCode": "20141",
+      "TeachClassId": "20141A0756",
+      "CourseName": "体育（1）",
+      "CourseNature": "公共必修",
+      "CourseType": "其它",
+      "TeacherName": null,
+      "ExperimentTeacherName": null,
+      "ResultStatus": "审核通过",
+      "SchoolName": "体育学院",
+      "Major": "软件学院",
+      "StudentCount": "282",
+      "ScoreSettingStr": null
+    },
+    {
+      "SemesterCode": "20141",
+      "TeachClassId": "20141A0826",
+      "CourseName": "军事理论",
+      "CourseNature": "公共必修",
+      "CourseType": "其它",
+      "TeacherName": "王涛",
+      "ExperimentTeacherName": null,
+      "ResultStatus": "审核通过",
+      "SchoolName": "学生处",
+      "Major": "软件学院",
+      "StudentCount": "287",
+      "ScoreSettingStr": "1|True|10|True|20|True|70"
+    },
+    {
+      "SemesterCode": "20141",
+      "TeachClassId": "20141A0869",
+      "CourseName": "军事技能训练",
+      "CourseNature": "公共必修",
+      "CourseType": "其它",
+      "TeacherName": null,
+      "ExperimentTeacherName": null,
+      "ResultStatus": "审核通过",
+      "SchoolName": "学生处",
+      "Major": "软件学院",
+      "StudentCount": "283",
+      "ScoreSettingStr": null
+    },
+    {
+      "SemesterCode": "20151",
+      "TeachClassId": "2015112097",
+      "CourseName": "专业英语阅读与交流(2)",
+      "CourseNature": "专业必修",
+      "CourseType": "其它",
+      "TeacherName": "陆歌皓",
+      "ExperimentTeacherName": null,
+      "ResultStatus": "审核通过",
+      "SchoolName": "软件学院",
+      "Major": "信息安全",
+      "StudentCount": "86",
+      "ScoreSettingStr": "0|True|10|True|20|True|70"
+    },
+    {
+      "SemesterCode": "20151",
+      "TeachClassId": "2015112098",
+      "CourseName": "大学物理",
+      "CourseNature": "学科基础",
+      "CourseType": "其它",
+      "TeacherName": "张艳",
+      "ExperimentTeacherName": null,
+      "ResultStatus": "审核通过",
+      "SchoolName": "软件学院",
+      "Major": "信息安全",
+      "StudentCount": "74",
+      "ScoreSettingStr": "0|True|10|True|20|True|70"
+    },
+    {
+      "SemesterCode": "20151",
+      "TeachClassId": "2015112099",
+      "CourseName": "大学物理实验",
+      "CourseNature": "学科基础",
+      "CourseType": "其它",
+      "TeacherName": "张艳",
+      "ExperimentTeacherName": null,
+      "ResultStatus": "审核通过",
+      "SchoolName": "软件学院",
+      "Major": "信息安全",
+      "StudentCount": "71",
+      "ScoreSettingStr": "0|True|10|True|20|True|70"
+    },
+    {
+      "SemesterCode": "20151",
+      "TeachClassId": "2015112100",
+      "CourseName": "数据结构",
+      "CourseNature": "学科基础",
+      "CourseType": "其它",
+      "TeacherName": "张德海",
+      "ExperimentTeacherName": null,
+      "ResultStatus": "审核通过",
+      "SchoolName": "软件学院",
+      "Major": "信息安全",
+      "StudentCount": "72",
+      "ScoreSettingStr": "0|True|10|True|20|True|70"
+    },
+    {
+      "SemesterCode": "20151",
+      "TeachClassId": "2015112101",
+      "CourseName": "数据结构实验",
+      "CourseNature": "学科基础",
+      "CourseType": "其它",
+      "TeacherName": "张德海",
+      "ExperimentTeacherName": null,
+      "ResultStatus": "审核通过",
+      "SchoolName": "软件学院",
+      "Major": "信息安全",
+      "StudentCount": "71",
+      "ScoreSettingStr": "0|True|10|True|20|True|70"
+    },
+    {
+      "SemesterCode": "20151",
+      "TeachClassId": "2015112102",
+      "CourseName": "计算机网络原理",
+      "CourseNature": "学科基础",
+      "CourseType": "其它",
+      "TeacherName": "于倩",
+      "ExperimentTeacherName": null,
+      "ResultStatus": "审核通过",
+      "SchoolName": "软件学院",
+      "Major": "信息安全",
+      "StudentCount": "80",
+      "ScoreSettingStr": "0|True|10|True|20|True|70"
+    },
+    {
+      "SemesterCode": "20151",
+      "TeachClassId": "2015112103",
+      "CourseName": "计算机网络原理实验",
+      "CourseNature": "学科基础",
+      "CourseType": "其它",
+      "TeacherName": "于倩",
+      "ExperimentTeacherName": null,
+      "ResultStatus": "审核通过",
+      "SchoolName": "软件学院",
+      "Major": "信息安全",
+      "StudentCount": "81",
+      "ScoreSettingStr": "0|True|10|True|20|True|70"
+    },
+    {
+      "SemesterCode": "20151",
+      "TeachClassId": "2015112104",
+      "CourseName": "综合技能实践（2）",
+      "CourseNature": "专业必修",
+      "CourseType": "其它",
+      "TeacherName": "秦江龙",
+      "ExperimentTeacherName": null,
+      "ResultStatus": "审核通过",
+      "SchoolName": "软件学院",
+      "Major": "软件工程",
+      "StudentCount": "65",
+      "ScoreSettingStr": "0|True|10|True|20|True|70"
+    },
+    {
+      "SemesterCode": "20151",
+      "TeachClassId": "2015192022",
+      "CourseName": "大学国文",
+      "CourseNature": "素质选修",
+      "CourseType": "人文科学类",
+      "TeacherName": "邹慧玲",
+      "ExperimentTeacherName": null,
+      "ResultStatus": "审核通过",
+      "SchoolName": "文学院",
+      "Major": "通识教育课程",
+      "StudentCount": "85",
+      "ScoreSettingStr": null
+    },
+    {
+      "SemesterCode": "20151",
+      "TeachClassId": "2015192287",
+      "CourseName": "非洲政治与中非关系",
+      "CourseNature": "素质选修",
+      "CourseType": "社会科学类",
+      "TeacherName": "王涛",
+      "ExperimentTeacherName": null,
+      "ResultStatus": "审核通过",
+      "SchoolName": "公共管理学院",
+      "Major": "通识教育课程",
+      "StudentCount": "80",
+      "ScoreSettingStr": "0|True|10|True|20|True|70"
+    },
+    {
+      "SemesterCode": "20151",
+      "TeachClassId": "2015192422",
+      "CourseName": "从爱因斯坦到霍金的宇宙",
+      "CourseNature": "素质选修",
+      "CourseType": "自然科学类",
+      "TeacherName": "姜泽军",
+      "ExperimentTeacherName": null,
+      "ResultStatus": "审核通过",
+      "SchoolName": "物理与天文学院",
+      "Major": "通识教育课程",
+      "StudentCount": "85",
+      "ScoreSettingStr": "0|True|10|True|20|True|70"
+    },
+    {
+      "SemesterCode": "20151",
+      "TeachClassId": "20151A0077",
+      "CourseName": "毛泽东思想和中国特色社会主义理论体系概论(上)",
+      "CourseNature": "公共必修",
+      "CourseType": "其它",
+      "TeacherName": "杨仕",
+      "ExperimentTeacherName": null,
+      "ResultStatus": "审核通过",
+      "SchoolName": "马克思主义学院",
+      "Major": "软件工程",
+      "StudentCount": "120",
+      "ScoreSettingStr": "1|True|20|True|30|True|50"
+    },
+    {
+      "SemesterCode": "20151",
+      "TeachClassId": "20151A0275",
+      "CourseName": "中国近现代史纲要",
+      "CourseNature": "公共必修",
+      "CourseType": "其它",
+      "TeacherName": "张巨成",
+      "ExperimentTeacherName": null,
+      "ResultStatus": "审核通过",
+      "SchoolName": "马克思主义学院",
+      "Major": "软件工程",
+      "StudentCount": "120",
+      "ScoreSettingStr": null
+    },
+    {
+      "SemesterCode": "20151",
+      "TeachClassId": "20151A0409",
+      "CourseName": "英语读写(3)",
+      "CourseNature": "公共必修",
+      "CourseType": "其它",
+      "TeacherName": "刘志成",
+      "ExperimentTeacherName": null,
+      "ResultStatus": "审核通过",
+      "SchoolName": "大学外语教学部",
+      "Major": "软件工程",
+      "StudentCount": "55",
+      "ScoreSettingStr": "1|True|30|True|30|True|40"
+    },
+    {
+      "SemesterCode": "20151",
+      "TeachClassId": "20151A0461",
+      "CourseName": "英语听说(3)",
+      "CourseNature": "公共必修",
+      "CourseType": "其它",
+      "TeacherName": "刘志成",
+      "ExperimentTeacherName": null,
+      "ResultStatus": "审核通过",
+      "SchoolName": "大学外语教学部",
+      "Major": "软件工程",
+      "StudentCount": "50",
+      "ScoreSettingStr": "1|True|30|True|30|True|40"
+    },
+    {
+      "SemesterCode": "20151",
+      "TeachClassId": "20151A0553",
+      "CourseName": "形势与政策（3）",
+      "CourseNature": "公共必修",
+      "CourseType": "其它",
+      "TeacherName": "胡玉荣",
+      "ExperimentTeacherName": null,
+      "ResultStatus": "审核通过",
+      "SchoolName": "马克思主义学院",
+      "Major": "化学科学与工程学院",
+      "StudentCount": "151",
+      "ScoreSettingStr": "1|True|40|False|0|True|60"
+    },
+    {
+      "SemesterCode": "20151",
+      "TeachClassId": "20151A1145",
+      "CourseName": "网球(二)",
+      "CourseNature": "公共必修",
+      "CourseType": "其它",
+      "TeacherName": "胡晓峰",
+      "ExperimentTeacherName": null,
+      "ResultStatus": "审核通过",
+      "SchoolName": "体育学院",
+      "Major": "公共体育",
+      "StudentCount": "36",
+      "ScoreSettingStr": "1|True|0|True|0|True|100"
+    },
+    {
+      "SemesterCode": "20152",
+      "TeachClassId": "2015212010",
+      "CourseName": "专业英语听力",
+      "CourseNature": "专业必修",
+      "CourseType": "其它",
+      "TeacherName": "陆歌皓",
+      "ExperimentTeacherName": null,
+      "ResultStatus": "审核通过",
+      "SchoolName": "软件学院",
+      "Major": "数字媒体技术",
+      "StudentCount": "62",
+      "ScoreSettingStr": "0|True|10|True|20|True|70"
+    },
+    {
+      "SemesterCode": "20152",
+      "TeachClassId": "2015212020",
+      "CourseName": "高等数学（2）",
+      "CourseNature": "学科基础",
+      "CourseType": "其它",
+      "TeacherName": "刘萍",
+      "ExperimentTeacherName": null,
+      "ResultStatus": "审核通过",
+      "SchoolName": "数学与统计学院",
+      "Major": "软件学院",
+      "StudentCount": "80",
+      "ScoreSettingStr": null
+    },
+    {
+      "SemesterCode": "20152",
+      "TeachClassId": "2015212022",
+      "CourseName": "计算机组成原理与汇编语言",
+      "CourseNature": "学科基础",
+      "CourseType": "其它",
+      "TeacherName": "王逍",
+      "ExperimentTeacherName": null,
+      "ResultStatus": "审核通过",
+      "SchoolName": "软件学院",
+      "Major": "软件学院",
+      "StudentCount": "84",
+      "ScoreSettingStr": "0|True|10|True|20|True|70"
+    },
+    {
+      "SemesterCode": "20152",
+      "TeachClassId": "2015212025",
+      "CourseName": "计算机组成原理与汇编语言实验",
+      "CourseNature": "学科基础",
+      "CourseType": "其它",
+      "TeacherName": "王逍",
+      "ExperimentTeacherName": null,
+      "ResultStatus": "审核通过",
+      "SchoolName": "软件学院",
+      "Major": "软件学院",
+      "StudentCount": "40",
+      "ScoreSettingStr": "0|True|10|True|20|True|70"
+    },
+    {
+      "SemesterCode": "20152",
+      "TeachClassId": "2015212030",
+      "CourseName": "工程数学",
+      "CourseNature": "学科基础",
+      "CourseType": "其它",
+      "TeacherName": "郁湧",
+      "ExperimentTeacherName": null,
+      "ResultStatus": "审核通过",
+      "SchoolName": "软件学院",
+      "Major": "软件学院",
+      "StudentCount": "79",
+      "ScoreSettingStr": "0|True|10|True|20|True|70"
+    },
+    {
+      "SemesterCode": "20152",
+      "TeachClassId": "2015212040",
+      "CourseName": "综合技能实践（1）",
+      "CourseNature": "专业必修",
+      "CourseType": "其它",
+      "TeacherName": "刘宇",
+      "ExperimentTeacherName": null,
+      "ResultStatus": "审核通过",
+      "SchoolName": "软件学院",
+      "Major": "软件学院",
+      "StudentCount": "52",
+      "ScoreSettingStr": "0|True|10|True|20|True|70"
+    },
+    {
+      "SemesterCode": "20152",
+      "TeachClassId": "2015292042",
+      "CourseName": "管理沟通",
+      "CourseNature": "素质选修",
+      "CourseType": "社会科学类",
+      "TeacherName": "曾萍",
+      "ExperimentTeacherName": null,
+      "ResultStatus": "审核通过",
+      "SchoolName": "工商管理与旅游管理学院",
+      "Major": "通识教育课程",
+      "StudentCount": "97",
+      "ScoreSettingStr": null
+    },
+    {
+      "SemesterCode": "20152",
+      "TeachClassId": "2015292178",
+      "CourseName": "大学生职业生涯规划",
+      "CourseNature": "素质选修",
+      "CourseType": "体育与技术技能类",
+      "TeacherName": "赵杰",
+      "ExperimentTeacherName": null,
+      "ResultStatus": "审核通过",
+      "SchoolName": "学生处",
+      "Major": "通识教育课程",
+      "StudentCount": "85",
+      "ScoreSettingStr": "1|True|30|True|20|True|50"
+    },
+    {
+      "SemesterCode": "20152",
+      "TeachClassId": "2015292348",
+      "CourseName": "招聘面试技巧",
+      "CourseNature": "素质选修",
+      "CourseType": "体育与技术技能类",
+      "TeacherName": "晏月平",
+      "ExperimentTeacherName": null,
+      "ResultStatus": "审核通过",
+      "SchoolName": "公共管理学院",
+      "Major": "通识教育课程",
+      "StudentCount": "90",
+      "ScoreSettingStr": "1|True|20|True|20|True|60"
+    },
+    {
+      "SemesterCode": "20152",
+      "TeachClassId": "20152A0054",
+      "CourseName": "英语读写(2)",
+      "CourseNature": "公共必修",
+      "CourseType": "其它",
+      "TeacherName": "杨燕",
+      "ExperimentTeacherName": null,
+      "ResultStatus": "审核通过",
+      "SchoolName": "大学外语教学部",
+      "Major": "软件学院",
+      "StudentCount": "50",
+      "ScoreSettingStr": "1|True|30|True|30|True|40"
+    },
+    {
+      "SemesterCode": "20152",
+      "TeachClassId": "20152A0115",
+      "CourseName": "马克思主义基本原理概论",
+      "CourseNature": "公共必修",
+      "CourseType": "其它",
+      "TeacherName": "王文兵",
+      "ExperimentTeacherName": null,
+      "ResultStatus": "审核通过",
+      "SchoolName": "马克思主义学院",
+      "Major": "软件学院",
+      "StudentCount": "120",
+      "ScoreSettingStr": "1|True|10|True|30|True|60"
+    },
+    {
+      "SemesterCode": "20152",
+      "TeachClassId": "20152A0275",
+      "CourseName": "英语听说(2)",
+      "CourseNature": "公共必修",
+      "CourseType": "其它",
+      "TeacherName": "张荣美",
+      "ExperimentTeacherName": null,
+      "ResultStatus": "审核通过",
+      "SchoolName": "大学外语教学部",
+      "Major": "软件学院",
+      "StudentCount": "50",
+      "ScoreSettingStr": "1|True|30|True|30|True|40"
+    },
+    {
+      "SemesterCode": "20152",
+      "TeachClassId": "20152A0560",
+      "CourseName": "形势与政策（2）",
+      "CourseNature": "公共必修",
+      "CourseType": "其它",
+      "TeacherName": "胡玉荣",
+      "ExperimentTeacherName": null,
+      "ResultStatus": "审核通过",
+      "SchoolName": "化学科学与工程学院·药学院",
+      "Major": "化学科学与工程学院",
+      "StudentCount": "112",
+      "ScoreSettingStr": "1|True|40|True|0|True|60"
+    },
+    {
+      "SemesterCode": "20152",
+      "TeachClassId": "20152A0852",
+      "CourseName": "网球(一)",
+      "CourseNature": "公共必修",
+      "CourseType": "其它",
+      "TeacherName": "胡晓峰",
+      "ExperimentTeacherName": null,
+      "ResultStatus": "审核通过",
+      "SchoolName": "体育学院",
+      "Major": "公共体育",
+      "StudentCount": "32",
+      "ScoreSettingStr": "0|True|10|True|20|True|70"
+    },
+    {
+      "SemesterCode": "20161",
+      "TeachClassId": "2016112030",
+      "CourseName": "信息对抗技术",
+      "CourseNature": "专业选修",
+      "CourseType": "其它",
+      "TeacherName": "刘璟",
+      "ExperimentTeacherName": null,
+      "ResultStatus": "审核通过",
+      "SchoolName": "软件学院",
+      "Major": "信息安全",
+      "StudentCount": "74",
+      "ScoreSettingStr": null
+    },
+    {
+      "SemesterCode": "20161",
+      "TeachClassId": "2016112035",
+      "CourseName": "面向对象程序设计",
+      "CourseNature": "院管选修",
+      "CourseType": "其它",
+      "TeacherName": "郁湧",
+      "ExperimentTeacherName": null,
+      "ResultStatus": "审核通过",
+      "SchoolName": "软件学院",
+      "Major": "软件学院",
+      "StudentCount": "85",
+      "ScoreSettingStr": "0|True|20|True|20|True|60"
+    },
+    {
+      "SemesterCode": "20161",
+      "TeachClassId": "2016112040",
+      "CourseName": "基于Java的XML技术及应用",
+      "CourseNature": "院管选修",
+      "CourseType": "其它",
+      "TeacherName": "李浩",
+      "ExperimentTeacherName": null,
+      "ResultStatus": "审核通过",
+      "SchoolName": "软件学院",
+      "Major": "软件学院",
+      "StudentCount": "28",
+      "ScoreSettingStr": "0|True|20|True|20|True|60"
+    },
+    {
+      "SemesterCode": "20161",
+      "TeachClassId": "2016112047",
+      "CourseName": "Java程序设计",
+      "CourseNature": "专业必修",
+      "CourseType": "其它",
+      "TeacherName": "廖赟",
+      "ExperimentTeacherName": null,
+      "ResultStatus": "审核通过",
+      "SchoolName": "软件学院",
+      "Major": "软件工程",
+      "StudentCount": "56",
+      "ScoreSettingStr": "0|True|20|True|20|True|60"
+    },
+    {
+      "SemesterCode": "20161",
+      "TeachClassId": "2016112048",
+      "CourseName": "Java程序设计实验",
+      "CourseNature": "专业必修",
+      "CourseType": "其它",
+      "TeacherName": "廖赟",
+      "ExperimentTeacherName": null,
+      "ResultStatus": "审核通过",
+      "SchoolName": "软件学院",
+      "Major": "软件工程",
+      "StudentCount": "52",
+      "ScoreSettingStr": "0|True|20|True|20|True|60"
+    },
+    {
+      "SemesterCode": "20161",
+      "TeachClassId": "2016112049",
+      "CourseName": "软件工程",
+      "CourseNature": "专业必修",
+      "CourseType": "其它",
+      "TeacherName": "代飞",
+      "ExperimentTeacherName": null,
+      "ResultStatus": "审核通过",
+      "SchoolName": "软件学院",
+      "Major": "软件工程",
+      "StudentCount": "55",
+      "ScoreSettingStr": null
+    },
+    {
+      "SemesterCode": "20161",
+      "TeachClassId": "2016112050",
+      "CourseName": "软件工程实验",
+      "CourseNature": "专业必修",
+      "CourseType": "其它",
+      "TeacherName": "代飞",
+      "ExperimentTeacherName": null,
+      "ResultStatus": "审核通过",
+      "SchoolName": "软件学院",
+      "Major": "软件工程",
+      "StudentCount": "55",
+      "ScoreSettingStr": null
+    },
+    {
+      "SemesterCode": "20161",
+      "TeachClassId": "2016112051",
+      "CourseName": "专业实训（2）",
+      "CourseNature": "专业必修",
+      "CourseType": "其它",
+      "TeacherName": "王炜",
+      "ExperimentTeacherName": null,
+      "ResultStatus": "审核通过",
+      "SchoolName": "软件学院",
+      "Major": "软件工程",
+      "StudentCount": "25",
+      "ScoreSettingStr": "0|True|20|True|20|True|60"
+    },
+    {
+      "SemesterCode": "20161",
+      "TeachClassId": "2016112054",
+      "CourseName": "设计模式",
+      "CourseNature": "专业选修",
+      "CourseType": "其它",
+      "TeacherName": "何臻力",
+      "ExperimentTeacherName": null,
+      "ResultStatus": "审核通过",
+      "SchoolName": "软件学院",
+      "Major": "软件工程",
+      "StudentCount": "50",
+      "ScoreSettingStr": "0|True|20|True|20|True|60"
+    },
+    {
+      "SemesterCode": "20161",
+      "TeachClassId": "2016112056",
+      "CourseName": "软件项目管理",
+      "CourseNature": "专业选修",
+      "CourseType": "其它",
+      "TeacherName": "何臻力",
+      "ExperimentTeacherName": null,
+      "ResultStatus": "审核通过",
+      "SchoolName": "软件学院",
+      "Major": "软件工程",
+      "StudentCount": "50",
+      "ScoreSettingStr": "0|True|20|True|20|True|60"
+    },
+    {
+      "SemesterCode": "20161",
+      "TeachClassId": "2016112057",
+      "CourseName": "软件测试技术",
+      "CourseNature": "专业选修",
+      "CourseType": "其它",
+      "TeacherName": "何臻力",
+      "ExperimentTeacherName": null,
+      "ResultStatus": "审核通过",
+      "SchoolName": "软件学院",
+      "Major": "软件工程",
+      "StudentCount": "44",
+      "ScoreSettingStr": "0|True|20|True|20|True|60"
+    },
+    {
+      "SemesterCode": "20161",
+      "TeachClassId": "2016112156",
+      "CourseName": "软件过程",
+      "CourseNature": "专业选修",
+      "CourseType": "其它",
+      "TeacherName": "谢仲文",
+      "ExperimentTeacherName": null,
+      "ResultStatus": "审核通过",
+      "SchoolName": "软件学院",
+      "Major": "软件工程",
+      "StudentCount": "53",
+      "ScoreSettingStr": "0|True|20|True|20|True|60"
+    },
+    {
+      "SemesterCode": "20161",
+      "TeachClassId": "2016112157",
+      "CourseName": "数据挖掘",
+      "CourseNature": "专业选修",
+      "CourseType": "其它",
+      "TeacherName": "杨云",
+      "ExperimentTeacherName": null,
+      "ResultStatus": "审核通过",
+      "SchoolName": "软件学院",
+      "Major": "软件工程",
+      "StudentCount": "99",
+      "ScoreSettingStr": null
+    },
+    {
+      "SemesterCode": "20161",
+      "TeachClassId": "2016192251",
+      "CourseName": "美国优秀短篇小说赏析",
+      "CourseNature": "素质选修",
+      "CourseType": "外语应用提高类",
+      "TeacherName": "赵安海",
+      "ExperimentTeacherName": null,
+      "ResultStatus": "审核通过",
+      "SchoolName": "大学外语教学部",
+      "Major": "通识教育课程",
+      "StudentCount": "58",
+      "ScoreSettingStr": null
+    },
+    {
+      "SemesterCode": "20162",
+      "TeachClassId": "2016212038",
+      "CourseName": "专业实训（1）",
+      "CourseNature": "专业必修",
+      "CourseType": "其它",
+      "TeacherName": "刘俊晖",
+      "ExperimentTeacherName": null,
+      "ResultStatus": "审核通过",
+      "SchoolName": "软件学院",
+      "Major": "软件工程",
+      "StudentCount": "25",
+      "ScoreSettingStr": "0|True|10|True|20|True|70"
+    },
+    {
+      "SemesterCode": "20162",
+      "TeachClassId": "2016212039",
+      "CourseName": "专业英语写作",
+      "CourseNature": "专业必修",
+      "CourseType": "其它",
+      "TeacherName": "杨云",
+      "ExperimentTeacherName": null,
+      "ResultStatus": "审核通过",
+      "SchoolName": "软件学院",
+      "Major": "软件工程",
+      "StudentCount": "53",
+      "ScoreSettingStr": null
+    },
+    {
+      "SemesterCode": "20162",
+      "TeachClassId": "2016212040",
+      "CourseName": "数据库原理与实用技术",
+      "CourseNature": "学科基础",
+      "CourseType": "其它",
+      "TeacherName": "张艳",
+      "ExperimentTeacherName": null,
+      "ResultStatus": "审核通过",
+      "SchoolName": "软件学院",
+      "Major": "软件工程",
+      "StudentCount": "55",
+      "ScoreSettingStr": "0|True|10|True|20|True|70"
+    },
+    {
+      "SemesterCode": "20162",
+      "TeachClassId": "2016212041",
+      "CourseName": "数据库原理与实用技术实验",
+      "CourseNature": "学科基础",
+      "CourseType": "其它",
+      "TeacherName": "张艳",
+      "ExperimentTeacherName": null,
+      "ResultStatus": "审核通过",
+      "SchoolName": "软件学院",
+      "Major": "软件工程",
+      "StudentCount": "55",
+      "ScoreSettingStr": "0|True|10|True|20|True|70"
+    },
+    {
+      "SemesterCode": "20162",
+      "TeachClassId": "2016212042",
+      "CourseName": "操作系统原理",
+      "CourseNature": "学科基础",
+      "CourseType": "其它",
+      "TeacherName": "柳青",
+      "ExperimentTeacherName": null,
+      "ResultStatus": "审核通过",
+      "SchoolName": "软件学院",
+      "Major": "软件工程",
+      "StudentCount": "55",
+      "ScoreSettingStr": "0|True|10|True|20|True|70"
+    },
+    {
+      "SemesterCode": "20162",
+      "TeachClassId": "2016212139",
+      "CourseName": "高等数学(2)",
+      "CourseNature": "学科基础",
+      "CourseType": "其它",
+      "TeacherName": "谷懿",
+      "ExperimentTeacherName": null,
+      "ResultStatus": "审核通过",
+      "SchoolName": "软件学院",
+      "Major": "信息安全",
+      "StudentCount": "86",
+      "ScoreSettingStr": null
+    },
+    {
+      "SemesterCode": "20162",
+      "TeachClassId": "2016292183",
+      "CourseName": "云南古代艺术",
+      "CourseNature": "素质选修",
+      "CourseType": "艺术类",
+      "TeacherName": "董雁伟",
+      "ExperimentTeacherName": null,
+      "ResultStatus": "审核通过",
+      "SchoolName": "文学院",
+      "Major": "通识教育课程",
+      "StudentCount": "70",
+      "ScoreSettingStr": null
+    },
+    {
+      "SemesterCode": "20162",
+      "TeachClassId": "2016292429",
+      "CourseName": "数学大观",
+      "CourseNature": "素质选修",
+      "CourseType": "自然科学类",
+      "TeacherName": "索剑峰",
+      "ExperimentTeacherName": null,
+      "ResultStatus": "审核通过",
+      "SchoolName": "数学与统计学院",
+      "Major": "慕课课程",
+      "StudentCount": "150",
+      "ScoreSettingStr": "0|True|10|True|20|True|70"
+    },
+    {
+      "SemesterCode": "20162",
+      "TeachClassId": "2016292433",
+      "CourseName": "不朽的艺术：走进大师与经典",
+      "CourseNature": "素质选修",
+      "CourseType": "人文科学类",
+      "TeacherName": "陆猛",
+      "ExperimentTeacherName": null,
+      "ResultStatus": "审核通过",
+      "SchoolName": "艺术与设计学院",
+      "Major": "慕课课程",
+      "StudentCount": "80",
+      "ScoreSettingStr": null
+    },
+    {
+      "SemesterCode": "20162",
+      "TeachClassId": "20162A0261",
+      "CourseName": "毛泽东思想和中国特色社会主义理论体系概论(下)",
+      "CourseNature": "公共必修",
+      "CourseType": "其它",
+      "TeacherName": "杨仕",
+      "ExperimentTeacherName": null,
+      "ResultStatus": "审核通过",
+      "SchoolName": "马克思主义学院",
+      "Major": "软件工程",
+      "StudentCount": "120",
+      "ScoreSettingStr": "1|True|20|True|30|True|50"
+    },
+    {
+      "SemesterCode": "20162",
+      "TeachClassId": "20162A0451",
+      "CourseName": "英语读写(4)",
+      "CourseNature": "公共必修",
+      "CourseType": "其它",
+      "TeacherName": "刘志成",
+      "ExperimentTeacherName": null,
+      "ResultStatus": "审核通过",
+      "SchoolName": "大学外语教学部",
+      "Major": "材料化学",
+      "StudentCount": "55",
+      "ScoreSettingStr": "1|True|30|True|30|True|40"
+    },
+    {
+      "SemesterCode": "20162",
+      "TeachClassId": "20162A0513",
+      "CourseName": "形势与政策（4）",
+      "CourseNature": "公共必修",
+      "CourseType": "其它",
+      "TeacherName": "胡玉荣",
+      "ExperimentTeacherName": null,
+      "ResultStatus": "审核通过",
+      "SchoolName": "马克思主义学院",
+      "Major": "化学科学与工程学院·药学院",
+      "StudentCount": "151",
+      "ScoreSettingStr": "1|True|40|True|0|True|60"
+    },
+    {
+      "SemesterCode": "20162",
+      "TeachClassId": "20162A0654",
+      "CourseName": "英语听说(4)",
+      "CourseNature": "公共必修",
+      "CourseType": "其它",
+      "TeacherName": "刘志成",
+      "ExperimentTeacherName": null,
+      "ResultStatus": "审核通过",
+      "SchoolName": "大学外语教学部",
+      "Major": "物理学",
+      "StudentCount": "57",
+      "ScoreSettingStr": "1|True|30|True|30|True|40"
+    },
+    {
+      "SemesterCode": "20162",
+      "TeachClassId": "20162A0887",
+      "CourseName": "网球(三)",
+      "CourseNature": "公共必修",
+      "CourseType": "其它",
+      "TeacherName": "胡晓峰",
+      "ExperimentTeacherName": null,
+      "ResultStatus": "审核通过",
+      "SchoolName": "体育学院",
+      "Major": "公共体育",
+      "StudentCount": "37",
+      "ScoreSettingStr": "0|True|10|True|20|True|70"
+    }
+  ],
+  "ResultList": [
+    {
+      "TeachClassId": "2014112011",
+      "Result": "72.00",
+      "IsInterdisciplinary": "否"
+    },
+    {
+      "TeachClassId": "2014112014",
+      "Result": "66.00",
+      "IsInterdisciplinary": "否"
+    },
+    {
+      "TeachClassId": "2014112017",
+      "Result": "94.00",
+      "IsInterdisciplinary": "否"
+    },
+    {
+      "TeachClassId": "2014112021",
+      "Result": "73.00",
+      "IsInterdisciplinary": "否"
+    },
+    {
+      "TeachClassId": "2014112023",
+      "Result": "68.00",
+      "IsInterdisciplinary": "否"
+    },
+    {
+      "TeachClassId": "2014112026",
+      "Result": "84.00",
+      "IsInterdisciplinary": "否"
+    },
+    {
+      "TeachClassId": "2014112030",
+      "Result": "76.00",
+      "IsInterdisciplinary": "是"
+    },
+    {
+      "TeachClassId": "20141A0463",
+      "Result": "75.00",
+      "IsInterdisciplinary": "否"
+    },
+    {
+      "TeachClassId": "20141A0560",
+      "Result": "80.00",
+      "IsInterdisciplinary": "否"
+    },
+    {
+      "TeachClassId": "20141A0634",
+      "Result": "78.00",
+      "IsInterdisciplinary": "否"
+    },
+    {
+      "TeachClassId": "20141A0664",
+      "Result": "79.00",
+      "IsInterdisciplinary": "否"
+    },
+    {
+      "TeachClassId": "20141A0705",
+      "Result": "86.00",
+      "IsInterdisciplinary": "否"
+    },
+    {
+      "TeachClassId": "20141A0756",
+      "Result": "72.00",
+      "IsInterdisciplinary": "否"
+    },
+    {
+      "TeachClassId": "20141A0826",
+      "Result": "64.00",
+      "IsInterdisciplinary": "否"
+    },
+    {
+      "TeachClassId": "20141A0869",
+      "Result": "70.00",
+      "IsInterdisciplinary": "否"
+    },
+    {
+      "TeachClassId": "2015112097",
+      "Result": "80.00",
+      "IsInterdisciplinary": ""
+    },
+    {
+      "TeachClassId": "2015112098",
+      "Result": "70.00",
+      "IsInterdisciplinary": ""
+    },
+    {
+      "TeachClassId": "2015112099",
+      "Result": "76.00",
+      "IsInterdisciplinary": ""
+    },
+    {
+      "TeachClassId": "2015112100",
+      "Result": "65.00",
+      "IsInterdisciplinary": ""
+    },
+    {
+      "TeachClassId": "2015112101",
+      "Result": "80.00",
+      "IsInterdisciplinary": ""
+    },
+    {
+      "TeachClassId": "2015112102",
+      "Result": "78.00",
+      "IsInterdisciplinary": ""
+    },
+    {
+      "TeachClassId": "2015112103",
+      "Result": "88.00",
+      "IsInterdisciplinary": ""
+    },
+    {
+      "TeachClassId": "2015112104",
+      "Result": "91.00",
+      "IsInterdisciplinary": ""
+    },
+    {
+      "TeachClassId": "2015192022",
+      "Result": "83.00",
+      "IsInterdisciplinary": ""
+    },
+    {
+      "TeachClassId": "2015192287",
+      "Result": "84.00",
+      "IsInterdisciplinary": ""
+    },
+    {
+      "TeachClassId": "2015192422",
+      "Result": "90.00",
+      "IsInterdisciplinary": ""
+    },
+    {
+      "TeachClassId": "20151A0077",
+      "Result": "76.00",
+      "IsInterdisciplinary": ""
+    },
+    {
+      "TeachClassId": "20151A0275",
+      "Result": "73.00",
+      "IsInterdisciplinary": ""
+    },
+    {
+      "TeachClassId": "20151A0409",
+      "Result": "75.00",
+      "IsInterdisciplinary": ""
+    },
+    {
+      "TeachClassId": "20151A0461",
+      "Result": "79.00",
+      "IsInterdisciplinary": ""
+    },
+    {
+      "TeachClassId": "20151A0553",
+      "Result": "94.00",
+      "IsInterdisciplinary": ""
+    },
+    {
+      "TeachClassId": "20151A1145",
+      "Result": "75.00",
+      "IsInterdisciplinary": ""
+    },
+    {
+      "TeachClassId": "2015212010",
+      "Result": "79.00",
+      "IsInterdisciplinary": ""
+    },
+    {
+      "TeachClassId": "2015212020",
+      "Result": "15.00",
+      "IsInterdisciplinary": ""
+    },
+    {
+      "TeachClassId": "2015212022",
+      "Result": "60.00",
+      "IsInterdisciplinary": ""
+    },
+    {
+      "TeachClassId": "2015212025",
+      "Result": "74.00",
+      "IsInterdisciplinary": ""
+    },
+    {
+      "TeachClassId": "2015212030",
+      "Result": "68.00",
+      "IsInterdisciplinary": ""
+    },
+    {
+      "TeachClassId": "2015212040",
+      "Result": "86.00",
+      "IsInterdisciplinary": ""
+    },
+    {
+      "TeachClassId": "2015292042",
+      "Result": "72.00",
+      "IsInterdisciplinary": ""
+    },
+    {
+      "TeachClassId": "2015292178",
+      "Result": "71.00",
+      "IsInterdisciplinary": ""
+    },
+    {
+      "TeachClassId": "2015292348",
+      "Result": "83.00",
+      "IsInterdisciplinary": ""
+    },
+    {
+      "TeachClassId": "20152A0054",
+      "Result": "71.00",
+      "IsInterdisciplinary": "否"
+    },
+    {
+      "TeachClassId": "20152A0115",
+      "Result": "75.00",
+      "IsInterdisciplinary": ""
+    },
+    {
+      "TeachClassId": "20152A0275",
+      "Result": "76.00",
+      "IsInterdisciplinary": "否"
+    },
+    {
+      "TeachClassId": "20152A0560",
+      "Result": "78.00",
+      "IsInterdisciplinary": ""
+    },
+    {
+      "TeachClassId": "20152A0852",
+      "Result": "88.00",
+      "IsInterdisciplinary": ""
+    },
+    {
+      "TeachClassId": "2016112030",
+      "Result": "93.00",
+      "IsInterdisciplinary": ""
+    },
+    {
+      "TeachClassId": "2016112035",
+      "Result": "84.00",
+      "IsInterdisciplinary": ""
+    },
+    {
+      "TeachClassId": "2016112040",
+      "Result": "82.00",
+      "IsInterdisciplinary": ""
+    },
+    {
+      "TeachClassId": "2016112047",
+      "Result": "89.00",
+      "IsInterdisciplinary": ""
+    },
+    {
+      "TeachClassId": "2016112048",
+      "Result": "88.00",
+      "IsInterdisciplinary": ""
+    },
+    {
+      "TeachClassId": "2016112049",
+      "Result": "86.00",
+      "IsInterdisciplinary": ""
+    },
+    {
+      "TeachClassId": "2016112050",
+      "Result": "86.00",
+      "IsInterdisciplinary": ""
+    },
+    {
+      "TeachClassId": "2016112051",
+      "Result": "86.00",
+      "IsInterdisciplinary": ""
+    },
+    {
+      "TeachClassId": "2016112054",
+      "Result": "90.00",
+      "IsInterdisciplinary": ""
+    },
+    {
+      "TeachClassId": "2016112056",
+      "Result": "89.00",
+      "IsInterdisciplinary": ""
+    },
+    {
+      "TeachClassId": "2016112057",
+      "Result": "92.00",
+      "IsInterdisciplinary": ""
+    },
+    {
+      "TeachClassId": "2016112156",
+      "Result": "90.00",
+      "IsInterdisciplinary": ""
+    },
+    {
+      "TeachClassId": "2016112157",
+      "Result": "89.00",
+      "IsInterdisciplinary": ""
+    },
+    {
+      "TeachClassId": "2016192251",
+      "Result": "62.00",
+      "IsInterdisciplinary": ""
+    },
+    {
+      "TeachClassId": "2016212038",
+      "Result": "85.00",
+      "IsInterdisciplinary": ""
+    },
+    {
+      "TeachClassId": "2016212039",
+      "Result": "70.00",
+      "IsInterdisciplinary": ""
+    },
+    {
+      "TeachClassId": "2016212040",
+      "Result": "91.00",
+      "IsInterdisciplinary": ""
+    },
+    {
+      "TeachClassId": "2016212041",
+      "Result": "95.00",
+      "IsInterdisciplinary": ""
+    },
+    {
+      "TeachClassId": "2016212042",
+      "Result": "91.00",
+      "IsInterdisciplinary": ""
+    },
+    {
+      "TeachClassId": "2016212139",
+      "Result": "60.00",
+      "IsInterdisciplinary": ""
+    },
+    {
+      "TeachClassId": "2016292183",
+      "Result": "73.00",
+      "IsInterdisciplinary": ""
+    },
+    {
+      "TeachClassId": "2016292429",
+      "Result": "93.00",
+      "IsInterdisciplinary": ""
+    },
+    {
+      "TeachClassId": "2016292433",
+      "Result": "77.00",
+      "IsInterdisciplinary": ""
+    },
+    {
+      "TeachClassId": "20162A0261",
+      "Result": "90.00",
+      "IsInterdisciplinary": ""
+    },
+    {
+      "TeachClassId": "20162A0451",
+      "Result": "82.00",
+      "IsInterdisciplinary": "否"
+    },
+    {
+      "TeachClassId": "20162A0513",
+      "Result": "88.00",
+      "IsInterdisciplinary": ""
+    },
+    {
+      "TeachClassId": "20162A0654",
+      "Result": "85.00",
+      "IsInterdisciplinary": "否"
+    },
+    {
+      "TeachClassId": "20162A0887",
+      "Result": "60.00",
+      "IsInterdisciplinary": ""
+    }
+  ],
+  "ResultDetailList": [
+    {
+      "SemesterId": "20141",
+      "TeachClassId": "2014112011",
+      "Credit": "4.00",
+      "Status": "",
+      "Gpa": "2.2"
+    },
+    {
+      "SemesterId": "20141",
+      "TeachClassId": "2014112014",
+      "Credit": "4.00",
+      "Status": "",
+      "Gpa": "1.6"
+    },
+    {
+      "SemesterId": "20141",
+      "TeachClassId": "2014112017",
+      "Credit": "1.00",
+      "Status": "",
+      "Gpa": "4.0"
+    },
+    {
+      "SemesterId": "20141",
+      "TeachClassId": "2014112021",
+      "Credit": "4.00",
+      "Status": "",
+      "Gpa": "2.3"
+    },
+    {
+      "SemesterId": "20141",
+      "TeachClassId": "2014112023",
+      "Credit": "3.00",
+      "Status": "",
+      "Gpa": "1.8"
+    },
+    {
+      "SemesterId": "20141",
+      "TeachClassId": "2014112026",
+      "Credit": "1.00",
+      "Status": "",
+      "Gpa": "3.4"
+    },
+    {
+      "SemesterId": "20141",
+      "TeachClassId": "2014112030",
+      "Credit": "1.00",
+      "Status": "",
+      "Gpa": "2.6"
+    },
+    {
+      "SemesterId": "20141",
+      "TeachClassId": "20141A0463",
+      "Credit": "2.00",
+      "Status": "",
+      "Gpa": "2.5"
+    },
+    {
+      "SemesterId": "20141",
+      "TeachClassId": "20141A0560",
+      "Credit": "1.00",
+      "Status": "",
+      "Gpa": "3.0"
+    },
+    {
+      "SemesterId": "20141",
+      "TeachClassId": "20141A0634",
+      "Credit": "1.00",
+      "Status": "",
+      "Gpa": "2.8"
+    },
+    {
+      "SemesterId": "20141",
+      "TeachClassId": "20141A0664",
+      "Credit": "3.00",
+      "Status": "",
+      "Gpa": "2.9"
+    },
+    {
+      "SemesterId": "20141",
+      "TeachClassId": "20141A0705",
+      "Credit": "0.50",
+      "Status": "",
+      "Gpa": "3.6"
+    },
+    {
+      "SemesterId": "20141",
+      "TeachClassId": "20141A0756",
+      "Credit": "1.00",
+      "Status": null,
+      "Gpa": "2.2"
+    },
+    {
+      "SemesterId": "20141",
+      "TeachClassId": "20141A0826",
+      "Credit": "1.00",
+      "Status": "",
+      "Gpa": "1.4"
+    },
+    {
+      "SemesterId": "20141",
+      "TeachClassId": "20141A0869",
+      "Credit": "1.00",
+      "Status": null,
+      "Gpa": "2.0"
+    },
+    {
+      "SemesterId": "20151",
+      "TeachClassId": "2015112097",
+      "Credit": "1.00",
+      "Status": "",
+      "Gpa": "3.0"
+    },
+    {
+      "SemesterId": "20151",
+      "TeachClassId": "2015112098",
+      "Credit": "3.00",
+      "Status": "",
+      "Gpa": "2.0"
+    },
+    {
+      "SemesterId": "20151",
+      "TeachClassId": "2015112099",
+      "Credit": "1.00",
+      "Status": "",
+      "Gpa": "2.6"
+    },
+    {
+      "SemesterId": "20151",
+      "TeachClassId": "2015112100",
+      "Credit": "3.00",
+      "Status": "",
+      "Gpa": "1.5"
+    },
+    {
+      "SemesterId": "20151",
+      "TeachClassId": "2015112101",
+      "Credit": "1.00",
+      "Status": "",
+      "Gpa": "3.0"
+    },
+    {
+      "SemesterId": "20151",
+      "TeachClassId": "2015112102",
+      "Credit": "3.00",
+      "Status": "",
+      "Gpa": "2.8"
+    },
+    {
+      "SemesterId": "20151",
+      "TeachClassId": "2015112103",
+      "Credit": "1.00",
+      "Status": "",
+      "Gpa": "3.8"
+    },
+    {
+      "SemesterId": "20151",
+      "TeachClassId": "2015112104",
+      "Credit": "1.00",
+      "Status": "",
+      "Gpa": "4.0"
+    },
+    {
+      "SemesterId": "20151",
+      "TeachClassId": "2015192022",
+      "Credit": "2.00",
+      "Status": null,
+      "Gpa": "3.3"
+    },
+    {
+      "SemesterId": "20151",
+      "TeachClassId": "2015192287",
+      "Credit": "2.00",
+      "Status": "",
+      "Gpa": "3.4"
+    },
+    {
+      "SemesterId": "20151",
+      "TeachClassId": "2015192422",
+      "Credit": "2.00",
+      "Status": "",
+      "Gpa": "4.0"
+    },
+    {
+      "SemesterId": "20151",
+      "TeachClassId": "20151A0077",
+      "Credit": "3.00",
+      "Status": "",
+      "Gpa": "2.6"
+    },
+    {
+      "SemesterId": "20151",
+      "TeachClassId": "20151A0275",
+      "Credit": "2.00",
+      "Status": "",
+      "Gpa": "2.3"
+    },
+    {
+      "SemesterId": "20151",
+      "TeachClassId": "20151A0409",
+      "Credit": "2.00",
+      "Status": "",
+      "Gpa": "2.5"
+    },
+    {
+      "SemesterId": "20151",
+      "TeachClassId": "20151A0461",
+      "Credit": "1.00",
+      "Status": "",
+      "Gpa": "2.9"
+    },
+    {
+      "SemesterId": "20151",
+      "TeachClassId": "20151A0553",
+      "Credit": "0.50",
+      "Status": "",
+      "Gpa": "4.0"
+    },
+    {
+      "SemesterId": "20151",
+      "TeachClassId": "20151A1145",
+      "Credit": "1.00",
+      "Status": "",
+      "Gpa": "2.5"
+    },
+    {
+      "SemesterId": "20152",
+      "TeachClassId": "2015212010",
+      "Credit": "1.00",
+      "Status": "",
+      "Gpa": "2.9"
+    },
+    {
+      "SemesterId": "20152",
+      "TeachClassId": "2015212020",
+      "Credit": "4.00",
+      "Status": "补考",
+      "Gpa": "0.0"
+    },
+    {
+      "SemesterId": "20152",
+      "TeachClassId": "2015212022",
+      "Credit": "3.00",
+      "Status": "补考",
+      "Gpa": "1.0"
+    },
+    {
+      "SemesterId": "20152",
+      "TeachClassId": "2015212025",
+      "Credit": "1.00",
+      "Status": "",
+      "Gpa": "2.4"
+    },
+    {
+      "SemesterId": "20152",
+      "TeachClassId": "2015212030",
+      "Credit": "3.00",
+      "Status": "",
+      "Gpa": "1.8"
+    },
+    {
+      "SemesterId": "20152",
+      "TeachClassId": "2015212040",
+      "Credit": "2.00",
+      "Status": "",
+      "Gpa": "3.6"
+    },
+    {
+      "SemesterId": "20152",
+      "TeachClassId": "2015292042",
+      "Credit": "2.00",
+      "Status": "",
+      "Gpa": "2.2"
+    },
+    {
+      "SemesterId": "20152",
+      "TeachClassId": "2015292178",
+      "Credit": "2.00",
+      "Status": "",
+      "Gpa": "2.1"
+    },
+    {
+      "SemesterId": "20152",
+      "TeachClassId": "2015292348",
+      "Credit": "2.00",
+      "Status": "",
+      "Gpa": "3.3"
+    },
+    {
+      "SemesterId": "20152",
+      "TeachClassId": "20152A0054",
+      "Credit": "2.00",
+      "Status": "",
+      "Gpa": "2.1"
+    },
+    {
+      "SemesterId": "20152",
+      "TeachClassId": "20152A0115",
+      "Credit": "3.00",
+      "Status": "",
+      "Gpa": "2.5"
+    },
+    {
+      "SemesterId": "20152",
+      "TeachClassId": "20152A0275",
+      "Credit": "1.00",
+      "Status": "",
+      "Gpa": "2.6"
+    },
+    {
+      "SemesterId": "20152",
+      "TeachClassId": "20152A0560",
+      "Credit": "0.50",
+      "Status": "",
+      "Gpa": "2.8"
+    },
+    {
+      "SemesterId": "20152",
+      "TeachClassId": "20152A0852",
+      "Credit": "1.00",
+      "Status": "",
+      "Gpa": "3.8"
+    },
+    {
+      "SemesterId": "20161",
+      "TeachClassId": "2016112030",
+      "Credit": "2.00",
+      "Status": "",
+      "Gpa": "4.0"
+    },
+    {
+      "SemesterId": "20161",
+      "TeachClassId": "2016112035",
+      "Credit": "2.00",
+      "Status": "",
+      "Gpa": "3.4"
+    },
+    {
+      "SemesterId": "20161",
+      "TeachClassId": "2016112040",
+      "Credit": "2.00",
+      "Status": "",
+      "Gpa": "3.2"
+    },
+    {
+      "SemesterId": "20161",
+      "TeachClassId": "2016112047",
+      "Credit": "2.00",
+      "Status": "",
+      "Gpa": "3.9"
+    },
+    {
+      "SemesterId": "20161",
+      "TeachClassId": "2016112048",
+      "Credit": "1.00",
+      "Status": "",
+      "Gpa": "3.8"
+    },
+    {
+      "SemesterId": "20161",
+      "TeachClassId": "2016112049",
+      "Credit": "3.00",
+      "Status": "",
+      "Gpa": "3.6"
+    },
+    {
+      "SemesterId": "20161",
+      "TeachClassId": "2016112050",
+      "Credit": "1.00",
+      "Status": "",
+      "Gpa": "3.6"
+    },
+    {
+      "SemesterId": "20161",
+      "TeachClassId": "2016112051",
+      "Credit": "3.00",
+      "Status": "",
+      "Gpa": "3.6"
+    },
+    {
+      "SemesterId": "20161",
+      "TeachClassId": "2016112054",
+      "Credit": "2.00",
+      "Status": "",
+      "Gpa": "4.0"
+    },
+    {
+      "SemesterId": "20161",
+      "TeachClassId": "2016112056",
+      "Credit": "2.00",
+      "Status": "",
+      "Gpa": "3.9"
+    },
+    {
+      "SemesterId": "20161",
+      "TeachClassId": "2016112057",
+      "Credit": "2.00",
+      "Status": "",
+      "Gpa": "4.0"
+    },
+    {
+      "SemesterId": "20161",
+      "TeachClassId": "2016112156",
+      "Credit": "2.00",
+      "Status": "",
+      "Gpa": "4.0"
+    },
+    {
+      "SemesterId": "20161",
+      "TeachClassId": "2016112157",
+      "Credit": "2.00",
+      "Status": "",
+      "Gpa": "3.9"
+    },
+    {
+      "SemesterId": "20161",
+      "TeachClassId": "2016192251",
+      "Credit": "2.00",
+      "Status": "",
+      "Gpa": "1.2"
+    },
+    {
+      "SemesterId": "20162",
+      "TeachClassId": "2016212038",
+      "Credit": "3.00",
+      "Status": "",
+      "Gpa": "3.5"
+    },
+    {
+      "SemesterId": "20162",
+      "TeachClassId": "2016212039",
+      "Credit": "1.00",
+      "Status": "",
+      "Gpa": "2.0"
+    },
+    {
+      "SemesterId": "20162",
+      "TeachClassId": "2016212040",
+      "Credit": "3.00",
+      "Status": "",
+      "Gpa": "4.0"
+    },
+    {
+      "SemesterId": "20162",
+      "TeachClassId": "2016212041",
+      "Credit": "1.00",
+      "Status": "",
+      "Gpa": "4.0"
+    },
+    {
+      "SemesterId": "20162",
+      "TeachClassId": "2016212042",
+      "Credit": "3.00",
+      "Status": "",
+      "Gpa": "4.0"
+    },
+    {
+      "SemesterId": "20162",
+      "TeachClassId": "2016212139",
+      "Credit": "4.00",
+      "Status": "",
+      "Gpa": "1.0"
+    },
+    {
+      "SemesterId": "20162",
+      "TeachClassId": "2016292183",
+      "Credit": "2.00",
+      "Status": "",
+      "Gpa": "2.3"
+    },
+    {
+      "SemesterId": "20162",
+      "TeachClassId": "2016292429",
+      "Credit": "2.00",
+      "Status": "",
+      "Gpa": "4.0"
+    },
+    {
+      "SemesterId": "20162",
+      "TeachClassId": "2016292433",
+      "Credit": "3.00",
+      "Status": "",
+      "Gpa": "2.7"
+    },
+    {
+      "SemesterId": "20162",
+      "TeachClassId": "20162A0261",
+      "Credit": "3.00",
+      "Status": "",
+      "Gpa": "4.0"
+    },
+    {
+      "SemesterId": "20162",
+      "TeachClassId": "20162A0451",
+      "Credit": "2.00",
+      "Status": "",
+      "Gpa": "3.2"
+    },
+    {
+      "SemesterId": "20162",
+      "TeachClassId": "20162A0513",
+      "Credit": "0.50",
+      "Status": "",
+      "Gpa": "3.8"
+    },
+    {
+      "SemesterId": "20162",
+      "TeachClassId": "20162A0654",
+      "Credit": "1.00",
+      "Status": "",
+      "Gpa": "3.5"
+    },
+    {
+      "SemesterId": "20162",
+      "TeachClassId": "20162A0887",
+      "Credit": "1.00",
+      "Status": "",
+      "Gpa": "1.0"
+    }
+  ],
+  "SemesterCodeList": [
+    {
+      "SemesterId": "20162"
+    },
+    {
+      "SemesterId": "20161"
+    },
+    {
+      "SemesterId": "20152"
+    },
+    {
+      "SemesterId": "20151"
+    },
+    {
+      "SemesterId": "20141"
+    }
+  ]
+}
